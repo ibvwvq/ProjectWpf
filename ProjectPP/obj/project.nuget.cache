@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7A1HwVHuifalZaRA6dLwcv/1ARNZL1UlB/uBepRyoPTn4uMrY9Fb+Ekn/ndhSYqT6+SzG+thZ4M60cp6WIISA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arina\\source\\repos\\ProjectPP\\ProjectPP\\ProjectPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arina\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\Arina\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\Arina\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
